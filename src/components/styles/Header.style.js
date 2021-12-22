@@ -7,7 +7,7 @@ color:white;
 width:800px;
 height:500px;
 align-items:center;
-background-image: url(./images/bck.jpg);
+background-image: url(./images/images.jpeg);
 backgoround-size:cover;
 background-position:center;
 & > div,
